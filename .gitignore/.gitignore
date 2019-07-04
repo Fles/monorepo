@@ -1,0 +1,7 @@
+.editorconfig
+.vscode/
+*.diff
+.DS_Store
+.idea/
+*~
+~*
